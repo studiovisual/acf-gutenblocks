@@ -60,7 +60,7 @@ class Block
      * @since 0.1.0
      * @var array $post_types
      */
-    protected $post_types = ['post', 'page'];
+    protected $post_types = [];
 
     /**
      * The default display mode of the block that is shown to the user.
@@ -292,18 +292,22 @@ class Block
      */
     public function getBlockData(): array
     {
-        return [
+        $data = [
             'name' => $this->getName(),
             'title' => $this->getTitle(),
             'description' => $this->getDescription(),
             'category' => $this->getCategory(),
             'icon' => $this->getIcon(),
             'keywords' => $this->getKeywords(),
-            'post_types' => $this->getPostTypes(),
             'mode' => $this->getMode(),
             'align' => $this->getAlignment(),
             'supports' => $this->getSupports(),
         ];
+
+        if(!empty($this->getPostTypes()))
+            $data['post_types'] = $this->getPostTypes();
+
+        return $data;
     }
 
 
