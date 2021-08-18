@@ -1,5 +1,17 @@
 # Change Log
 
+## [0.4.2](https://github.com/studiovisual/acf-gutenblocks/tree/0.4.2) (2021-08-18)
+[Full Changelog](https://github.com/studiovisual/acf-gutenblocks/compare/0.4.1...0.4.2)
+
+**Merged pull requests:**
+
+- Make 'post_types' optional [\#1](https://github.com/studiovisual/acf-gutenblocks/pull/1) ([lordealeister](https://github.com/lordealeister))
+
+## [0.4.1](https://github.com/studiovisual/acf-gutenblocks/tree/0.4.1) (2021-04-08)
+[Full Changelog](https://github.com/studiovisual/acf-gutenblocks/compare/0.4.0...0.4.1)
+
+- Init fork
+
 ## [0.4.0](https://github.com/ItinerisLtd/acf-gutenblocks/tree/0.4.0) (2019-10-16)
 [Full Changelog](https://github.com/ItinerisLtd/acf-gutenblocks/compare/0.3.1...0.4.0)
 

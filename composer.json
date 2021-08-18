@@ -7,23 +7,20 @@
     "advanced",
     "custom",
     "fields",
-    "wordpress",
-    "roots",
-    "bedrock",
-    "sage"
+    "wordpress"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "Itineris Limited",
-      "email": "hello@itineris.co.uk",
-      "homepage": "https://itineris.co.uk/",
+      "name": "Studio Visual",
+      "email": "atendimento@studiovisual.com.br",
+      "homepage": "https://studiovisual.com.br/",
       "role": "Company"
     },
     {
-      "name": "Lee Hanbury-Pickett",
-      "email": "lee.hanbury@gmail.com",
-      "homepage": "https://codepunchers.co.uk",
+      "name": "Lorde Aleister",
+      "email": "lordealeister@gmail.com",
+      "homepage": "https://github.com/lordealeister",
       "role": "Developer"
     }
   ],
@@ -64,7 +61,7 @@
   },
   "support": {
     "email": "hello@itineris.co.uk",
-    "issues": "https://github.com/ItinerisLtd/acf-gutenblocks/issues",
-    "source": "https://github.com/ItinerisLtd/acf-gutenblocks"
+    "issues": "https://github.com/studiovisual/acf-gutenblocks/issues",
+    "source": "https://github.com/studiovisual/acf-gutenblocks"
   }
 }

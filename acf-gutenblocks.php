@@ -3,7 +3,7 @@
  * Plugin Name:     ACF Gutenblocks
  * Plugin URI:      https://github.com/studiovisual/acf-gutenblocks/
  * Description:     Easily create Gutenberg Blocks with Advanced Custom Fields
- * Version:         0.4.1
+ * Version:         0.4.2
  * Author:          Studio Visual
  * Author URI:      https://studiovisual.com.br
  * Text Domain:     acf-gutenblocks
