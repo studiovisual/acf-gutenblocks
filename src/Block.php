@@ -94,6 +94,16 @@ class Block
      */
     public $dir;
 
+    
+    /**
+     * The fields variable FIX php 8.2
+     *
+     * @since 0.1.0
+     * @var string $fields
+     */
+    
+    protected $fields;
+
     /**
      * The blocks accessibility.
      *
