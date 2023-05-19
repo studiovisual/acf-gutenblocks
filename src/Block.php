@@ -89,7 +89,7 @@ class Block
     /**
      * The blocks directory path.
      *
-     * @since 0.1.0
+     * @since 0.4.2
      * @var string $dir
      */
     public $dir;
